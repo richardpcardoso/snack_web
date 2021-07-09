@@ -1,4 +1,4 @@
-# metronic-vue
+# Projeto A3
 
 ## Project setup
 ```
